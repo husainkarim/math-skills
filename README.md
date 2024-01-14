@@ -1,6 +1,6 @@
 # MATH-SKILLS
 
-Is a math pargram to find the Average & Median & Variance & Standard Deviation for the givin data.
+Is a math program to find the Average & Median & Variance & Standard Deviation for the givin data.
 
 ## AUTHORS
 
@@ -14,12 +14,12 @@ $chmod u+x math-skills
 $./math-skills
 ```
 
-Will generate a text file "data.txt" so we can use this file to test the pargrom by the following code.
+Will generate a text file "data.txt" so we can use this file to test the program by the following code.
 
 ```
 $go run main.go data.txt
 ```
-The result will showen in the terminal.
+The result will shown in the terminal.
 
 ## LICENSE
 
